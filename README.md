@@ -1,6 +1,6 @@
 # Projeto Stage 05 RocketSeat
 ## Sobre o projeto:
-Nesta primeira etapa do Stage 5, trabalhamos com algumas lógicas de JavaScript que aprendemos em aulas anteriores e começamos uma introdução à DOM (Document Object Model), fizemos uma pequena aplicação ulitilizando HTML, CSS e JavaScript que a entitulamos de "Jogo Adivinhação".
+Nesta primeira etapa do Stage 5, trabalhamos com algumas lógicas de JavaScript que aprendemos em aulas anteriores e começamos uma introdução à DOM (Document Object Model), fizemos uma pequena aplicação utilizando HTML, CSS e JavaScript que a intitulamos de "Jogo Adivinhação".
 No final da aula, o nosso professor lançou três desafios, sendo eles: 
 - Refatorar o código
 - Criar um "if" para o caso do usuário inserir um número fora do intervalo solicitado (0 a 10).
